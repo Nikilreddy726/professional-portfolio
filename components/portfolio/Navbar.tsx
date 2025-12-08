@@ -131,7 +131,7 @@ export default function Navbar() {
                     )
                   }
                 >
-                  <Download className="w-4 h-4 mr-2" />
+                  <Download className="w-4 h-10 mr-2" />
                   Download Resume
                 </Button>
               </div>
