@@ -8,7 +8,7 @@ const education = [
     institution: "PES University",
     degree: "Master's Degree in Computer Applications",
     period: "Sept 2025 - Present",
-    grade: "8.09 CGPA",
+    grade: "N/A",
     icon: GraduationCap,
   },
   {
