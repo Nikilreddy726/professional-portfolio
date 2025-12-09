@@ -111,7 +111,7 @@ export default function Footer() {
         . All rights reserved.
       </motion.div>
 
-      {/* SCROLL TO TOP BUTTON */}
+      {/* SCROLL TO TOP BUTTON 
       <motion.button
         onClick={scrollToTop}
         whileHover={{ scale: 1.15, y: -4 }}
@@ -119,7 +119,7 @@ export default function Footer() {
                    shadow-lg hover:shadow-purple-500/40 transition text-white"
       >
         <ArrowUp className="w-5 h-5" />
-      </motion.button>
+      </motion.button>*/}
 
     </footer>
   );
