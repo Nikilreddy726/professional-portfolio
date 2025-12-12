@@ -80,7 +80,7 @@ export default function AboutSection() {
 
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                Hey there! I'm <strong className="text-slate-900">Nikil Kumar Reddy</strong>, 
+                Hey there! I'm <strong className="text-slate-900">K.L Nikil Kumar Reddy</strong>, 
                 a Computer Science student who believes that great software begins 
                 with clean design and thoughtful execution.
               </p>
